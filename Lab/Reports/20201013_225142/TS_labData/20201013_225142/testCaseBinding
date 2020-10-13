@@ -1,0 +1,2 @@
+{"testCaseName":"Test Cases/labaddDatafile - Iteration 1","testCaseId":"Test Cases/labaddDatafile","bindedValues":{"pass":"\u0027ThisIsNotAPassword\u0027","user":"\u0027John Doe\u0027","url":"\u0027https://katalon-demo-cura.herokuapp.com/\u0027"}}
+{"testCaseName":"Test Cases/labaddDatafile - Iteration 2","testCaseId":"Test Cases/labaddDatafile","bindedValues":{"pass":"\u0027asdads\u0027","user":"\u0027asdasd\u0027","url":"\u0027google.com.vn\u0027"}}
