@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>labaddDatafile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2363a611-40e8-47d6-93e5-e5f05ff0c5ba</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aeadcfd3-2edd-42be-95b3-6869e2ffec9c</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e676ec55-59a6-4a92-9384-739689da2e79</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee24e36a-9901-40e6-886e-acebbd5be519</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
